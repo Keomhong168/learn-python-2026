@@ -4,8 +4,8 @@ Not started | In progress | Done
 ## Module Tracker
 | Module | Lesson | Status | Quiz Score | Date Completed | Weak Points |
 | --- | --- | --- | --- | --- | --- |
-| 00-setup | lesson-01-install-python | Not started | | | |
-| 00-setup | lesson-02-vscode-first-program | Not started | | | |
+| 00-setup | lesson-01-install-python | Done | skipped | 2026-11-15 | |
+| 00-setup | lesson-02-vscode-first-program | In progress | | | |
 | 01-basics | lesson-01-print-and-comments | Not started | | | |
 | 01-basics | lesson-02-variables | Not started | | | |
 | 01-basics | lesson-03-data-types | Not started | | | |
@@ -48,3 +48,80 @@ Module: 00-setup / Lesson: lesson-01-install-python
 -
 ## Next Lesson
 -
+
+# Checklist (start: 2026-11-15, pace: 1 lesson/day)
+
+## Daily routine (30-60 min)
+- [ ] Review yesterday's notes.md (5 min)
+- [ ] Learn today's lesson, run examples.py
+- [ ] Do practice.py, then quiz.md
+- [ ] Update progress.md, mistakes.md, cheatsheet.md
+
+## Module 00 - Setup
+- [ ] Nov 15 - lesson-01-install-python
+- [ ] Nov 16 - lesson-02-vscode-first-program
+
+## Module 01 - Basics
+- [ ] Nov 17 - lesson-01-print-and-comments
+- [ ] Nov 18 - lesson-02-variables
+- [ ] Nov 19 - lesson-03-data-types
+- [ ] Nov 20 - lesson-04-input-and-output
+- [ ] Nov 21 - lesson-05-operators
+- [ ] Nov 22 - project-tip-calculator
+- [ ] Nov 22 - Module 01 review quiz
+
+## Module 02 - Control Flow
+- [ ] Nov 23 - lesson-01-if-else
+- [ ] Nov 24 - lesson-02-for-loops
+- [ ] Nov 25 - lesson-03-while-loops
+- [ ] Nov 26 - lesson-04-break-continue
+- [ ] Nov 27 - project-number-guessing-game
+- [ ] Nov 27 - Module 02 review quiz
+
+## Module 03 - Data Structures
+- [ ] Nov 28 - lesson-01-lists
+- [ ] Nov 29 - lesson-02-tuples
+- [ ] Nov 30 - lesson-03-dictionaries
+- [ ] Dec 01 - lesson-04-sets
+- [ ] Dec 02 - project-contact-book
+- [ ] Dec 02 - Module 03 review quiz
+
+## Module 04 - Functions
+- [ ] Dec 03 - lesson-01-defining-functions
+- [ ] Dec 04 - lesson-02-parameters-and-return
+- [ ] Dec 05 - lesson-03-scope
+- [ ] Dec 06 - project-unit-converter
+- [ ] Dec 06 - Module 04 review quiz
+
+## Module 05 - Files and Errors
+- [ ] Dec 07 - lesson-01-read-write-files
+- [ ] Dec 08 - lesson-02-try-except
+- [ ] Dec 09 - lesson-03-json-basics
+- [ ] Dec 10 - project-note-taking-cli
+- [ ] Dec 10 - Module 05 review quiz
+
+## Module 06 - OOP
+- [ ] Dec 11 - lesson-01-classes-and-objects
+- [ ] Dec 12 - lesson-02-methods-and-attributes
+- [ ] Dec 13 - lesson-03-inheritance
+- [ ] Dec 14 - project-bank-account
+- [ ] Dec 14 - Module 06 review quiz
+
+## Module 07 - Modules and Tools
+- [ ] Dec 15 - lesson-01-imports
+- [ ] Dec 16 - lesson-02-pip
+- [ ] Dec 17 - lesson-03-virtual-environments
+- [ ] Dec 18 - project-password-generator
+- [ ] Dec 18 - Module 07 review quiz
+
+## Module 08 - Final Projects (Dec 19-25)
+- [ ] calculator
+- [ ] todo-app
+- [ ] quiz-game
+- [ ] data-tool
+- [ ] Final review of cheatsheet.md and mistakes.md
+
+## Spaced review (do after each lesson)
+- [ ] +1 day  - reread notes.md summary
+- [ ] +3 days - redo 2 practice questions
+- [ ] +7 days - retake quiz.md
